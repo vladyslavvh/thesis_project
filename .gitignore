@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+poetry.toml
+
+# Local GraphRAG indexes, model caches, and generated summaries
+outputs/
+
+# Local implementation notes and experiment observations
+notes/
